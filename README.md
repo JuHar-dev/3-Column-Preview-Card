@@ -24,9 +24,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./mobile1.png)
-![](./mobile2.png)
-![](./screenshot.png)
+![](./mobile1.PNG)
+![](./mobile2.PNG)
+![](./screenshot.PNG)
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/JuHar-dev/3-Column-Preview-Card)
