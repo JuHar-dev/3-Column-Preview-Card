@@ -29,8 +29,8 @@ Users should be able to:
 ![](./screenshot.PNG)
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/JuHar-dev/3-Column-Preview-Card)
-- Live Site URL: [Add live site URL here](https://3-column-preview-card-rouge.vercel.app/)
+- Solution URL: [Github](https://github.com/JuHar-dev/3-Column-Preview-Card)
+- Live Site URL: [Live Site](https://3-column-preview-card-rouge.vercel.app/)
 
 ## My process
 
